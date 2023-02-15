@@ -32,7 +32,6 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif"  align="right" width="373.5px" height="208.5px">
   </div>
 </div>
 <div>
@@ -46,7 +45,6 @@ implement innovative ideas, skills and creativity to accomplishing the projects.
 <br>
 <h2 align="center">           📝 ~ CONTACT ME ~ 📝</h2>
   <div align="center">
-<img src="https://38.media.tumblr.com/3a77a8e4e1332348d3761d20e83776bd/tumblr_nd5h91ToSz1rmmzqko1_500.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Wanna connect <br>
@@ -57,7 +55,7 @@ personally??? huhhh!!!</p>
 <br>
 <div>
 <div align="center">
- <h2 align="center">👾 ~BUY ME A CUP OF COFFEE NOW! ~ 👾</h2>
+
 <img src="https://i.pinimg.com/originals/ed/29/74/ed29741e2d0fb0ae214a333c69fd9b2e.gif">
 </div>
 <hr>
