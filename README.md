@@ -16,7 +16,7 @@
 <b>Loves:</b> anime, music, food and you <3
 </li>
 <li>
-<b>Gender:</b> He/Him/Male
+<b>Gender:</b> Male
 </li>
 
 <li>
