@@ -13,7 +13,7 @@
  <b>Name:</b> Pushpender Sharma, yeah you heard it right! </li>
 
 <li>
-<b>Loves:</b> anime, music, food and you <3
+<b>Loves:</b> anime, music, food <3
 </li>
 <li>
 <b>Gender:</b> Male
