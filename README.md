@@ -7,7 +7,7 @@
 <div>
 <h2 align="center"> 🦊 ~ ABOUT ME ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://i.pinimg.com/originals/fe/91/6c/fe916cc5dd145ff1b57b8eb43dbf2234.gif" align="right" width="200px" height="200px" ;>
   </div>
 <li>
  <b>Name:</b> Pushpender Sharma, yeah you heard it right! </li>
@@ -56,9 +56,9 @@ personally??? huhhh!!!</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~BUY ME A CUP OF COFFEE NOW! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+ <h2 align="center">👾 ~BUY ME A CUP OF COFFEE NOW! ~ 👾</h2>
+<img src="https://i.pinimg.com/originals/ed/29/74/ed29741e2d0fb0ae214a333c69fd9b2e.gif">
 </div>
 <hr>
 </div>
