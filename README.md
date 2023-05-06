@@ -24,7 +24,7 @@
 <li>
 <b>Working 💻@</b> naah just studying stuff
 </li>
-<br><br>
+<br><br><br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 KNOWLEDGE📇 ~</h2>
