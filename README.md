@@ -10,7 +10,7 @@
 <img src="https://i.pinimg.com/originals/fe/91/6c/fe916cc5dd145ff1b57b8eb43dbf2234.gif" align="right" width="200px" height="200px" ;>
   </div>
 <li>
- <b>Name 🧑‍🎓:</b>  Pushpender Sharma, yeah you heard it right!
+ <b>Name 🧑‍🎓:</b> Pushpender Sharma, yeah you heard it right!
   </li>
 <li>
 <b>Loves 🫀:</b> anime, music, food <3
