@@ -65,12 +65,12 @@ personally??? huhhh!!!</p>
 <p align="center"><a href="https://twitter.com/ciazo49?t=nHInbSvGZXq3vjpkMUw_BQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pushpender-sharma-a874581bb/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></p>
 </div>
-   <p align="center"> 
+<!--    <p align="center"> 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pushpender-sh&style=for-the-badge">
 </a>
 </p>
-    <br>
+    <br> -->
 <div>
 <div align="center">
 <img src="https://i.pinimg.com/originals/ed/29/74/ed29741e2d0fb0ae214a333c69fd9b2e.gif">
