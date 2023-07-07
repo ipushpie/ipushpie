@@ -62,8 +62,9 @@ implement innovative ideas, skills and creativity to accomplishing the projects.
 <br>
 <p align="center">Wanna connect <br>
 personally??? huhhh!!!</p>
-<p align="center"><a href="https://twitter.com/ciazo49?t=nHInbSvGZXq3vjpkMUw_BQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pushpender-sharma-a874581bb/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></p>
+<p align="center"><a href="mailto:pushpendersharma2019@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=20px/></a>
+ <a href="https://www.linkedin.com/in/pushpender-sharma-a874581bb/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=20px/></a></p>
 </div>
 <!--    <p align="center"> 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
