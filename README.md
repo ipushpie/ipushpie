@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="color: orange;"><b>OS:</b></td>
-    <td style="color: green;">Linux, Windows</td>
+    <td style="color: green;">Linux, Windows, Mac</td>
   </tr>
   <tr>
     <td style="color: orange;"><b>Languages.Programming:</b></td>
