@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td style="color: orange;"><b>Experience:</b></td>
-    <td style="color: green;">Software Engineer at <a href="https://github.com/pushpender-remotestate" style="color: green;"> Remotestate</a><br>Software Engineer at <a href="https://github.com/pushpender-appvintech" style="color: green;"> Appvintech</a</td>
+    <td style="color: green;">Software Engineer at <a href="https://github.com/pushpender-remotestate" style="color: green;"> Remotestate</a><br>Software Engineer at <a href="https://github.com/pushpender-gotrust" style="color: green;"> GoTrust</a</td>
   </tr>
   <tr>
     <td style="color: orange;"><b>Achievements:</b></td>
