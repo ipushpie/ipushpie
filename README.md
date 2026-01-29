@@ -2,8 +2,10 @@
   <h1>Pushpender Sharma</h1>
   <p><em>Full-Stack Engineer · AI-Driven Platforms · System Design Enthusiast</em></p>
   
+  <!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox)](https://pushpender-portfolio.web.app/)
+-->
   <a href="https://linkedin.com/in/pushpendersharma"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://pushpender-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox"></a>
   <a href="mailto:pushpendersharma69@outlook.in"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
 </div>
 
