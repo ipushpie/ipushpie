@@ -74,46 +74,4 @@ Skilled in **architecture, performance optimization, and AI integration**, with 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge">
 
----
-
-## 💼 Experience Timeline
-
-<table>
-  <tr>
-    <td align="right"><b>Nov 2024 → Present</b></td>
-    <td align="center">◆</td>
-    <td align="left">
-      <b>Senior Software Engineer — GoTrust / AppVin</b><br/>
-      <nobr><code>GoTrust Privacy Platform</code></nobr>
-      <nobr><code>MAIT (MultiStrat)</code></nobr>
-      <nobr><code>SidebarLaw Due Diligence</code></nobr>
-      <br/>
-      <sub>DPDPA compliance • Agents on PGVector + Gemini • Dockerized deployments</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Jan 2023 → Nov 2024</b></td>
-    <td align="center">◆</td>
-    <td align="left">
-      <b>Software Engineer — RemoteState</b><br/>
-      <nobr><code>Precium</code></nobr>
-      <nobr><code>Circonomy</code></nobr>
-      <nobr><code>UX.com.au</code></nobr>
-      <nobr><code>Education Planner</code></nobr>
-      <nobr><code>Nvest</code></nobr><br/>
-      <sub>Feature leadership • Next.js revamp • Backend-driven control</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Jun 2022 → Dec 2022</b></td>
-    <td align="center">◆</td>
-    <td align="left">
-      <b>Web Development Intern — Bennett University</b><br/>
-      <nobr><code>University Website Enhancements</code></nobr>
-      <nobr><code>Cultural Fest Platform</code></nobr><br/>
-      <sub>Engagement uplift • Event showcase site</sub>
-    </td>
-  </tr>
-</table>
-
 </div>
